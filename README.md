@@ -17,9 +17,7 @@
     <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaryogesh17&langs_count=10&theme=react&layout=compact" />
 </div>
 
-<div>
- <h2 align='center'><i>My Contribution</i></h2>
-</div>
+
 <div align=center>
         <img alt="Yogesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kumaryogesh17&bg_color=1F222E&theme=dracula" />
 </div>
