@@ -15,7 +15,6 @@
 </div>
 <div align=center>
     <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaryogesh17&langs_count=10&theme=react&layout=compact" />
-    <img width=45% alt="Yogesh's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=kumaryogesh17&theme=react&langs_count=9">
 </div>
 
 <h2 align='center'><i>My Contribution</i></h2>
