@@ -8,6 +8,9 @@
 - I am a self motivated person and I try to exceed my superior’s expectations with high-quality work.
 - Being a fast learner, I quickly pick up business knowledge related to my project.
 
+## ⚡ Deployed Project
+* [NPM Package for Hybrid Encryption of Image](https://www.npmjs.com/package/encrypt-image)
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
